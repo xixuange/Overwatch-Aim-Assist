@@ -1,4 +1,4 @@
-# Overwatch Aim Assistance
+# Overwatch Aim Assistance  //守望先锋自动瞄准
 A program written in C++ that helps a player aim at a target in Overwatch (includes trigger bot functionality).
 
 Demo: https://www.youtube.com/watch?v=tgjQR0CJ2Ys&feature=youtu.be
